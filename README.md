@@ -5,11 +5,14 @@
 
  * https://github.com/dastergon/awesome-sre
  * https://github.com/michael-kehoe/awesome-sre-cheatsheets
+ * https://github.com/andrealmar/sre-university
  * https://github.com/awesome-sre/awesome-sre
  * https://github.com/jdrowne/awesome-sre-books
  * https://github.com/hekonsek/awesome-sre
  * https://github.com/jdrowne/awesome-sre-self-training
  * https://github.com/ravikumarpidintla/awesome-sre-tools
+ * https://github.com/squadcastHQ/awesome-sre-tools
+ * https://github.com/mterwill/awesome-sre
 
 ## X+1. License
 
