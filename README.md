@@ -1,6 +1,5 @@
 # Awesome SRE
 
-
 ## X. References
 
  * https://github.com/dastergon/awesome-sre
