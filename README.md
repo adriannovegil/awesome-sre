@@ -70,8 +70,6 @@ Traditional SRE saying
 
 ## 15. Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-Feel free to [open an issue](https://github.com/adriannovegil/awesome-observability/issues) or [create a pull request](https://github.com/adriannovegil/awesome-observability/pulls) with your additions.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 Thank you!
