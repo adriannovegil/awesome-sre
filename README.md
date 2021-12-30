@@ -1,4 +1,4 @@
-# Awesome SRE
+# Awesome SRE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  "Hope is not a strategy."
 
