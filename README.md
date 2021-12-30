@@ -32,8 +32,8 @@ Traditional SRE saying
 
 ## 12. Tools
 
-- [SLO Generator](https://github.com/google/slo-generator) - Tool to compute and export Service Level Objectives (SLOs), Error Budgets and Burn Rates, using configurations written in YAML (or JSON) format
-- [slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here's an attempt to make it easy
+- [SLO Generator](https://github.com/google/slo-generator) - Tool to compute and export Service Level Objectives (SLOs), Error Budgets and Burn Rates, using configurations written in YAML (or JSON) format.
+- [slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here's an attempt to make it easy.
 - [SLO-Tracker](https://github.com/roshan8/slo-tracker) - A simple but effective way to track SLO's and Error budgets. SLO-tracker can be integrated with few alerting tools via webhook integration to receive SLO voilating incidents.
 
 ## 13. References
