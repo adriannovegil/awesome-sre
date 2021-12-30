@@ -2,7 +2,23 @@
 
  "Hope is not a strategy."
 
-Traditional SRE saying
+## Contents
+
+- [1. Site Reliability Engineering](#1-site-reliability-engineering)
+- [2. SRE Culture](#2-sre-culture)
+- [3. DevOps](#3-devops)
+- [4. Monitoring and Observability](#4-monitoring-and-observability)
+- [5. Alerting](#5-alerting)
+- [6. Incident Response and Post-Mortem](#6-incident-response-and-post-mortem)
+- [7. On-Call](#7-on-call)
+- [8. Testing in Production](#8-testing-in-production)
+- [9. Chaos Engineering](#9-chaos-engineering)
+- [10. Automation](#10-automation)
+- [11. Performance](#11-performance)
+- [12. Tools](#12-tools)
+- [13. References](#13-references)
+- [14. License](#14-license)
+- [15. Contributing](#15-contributing)
 
 ## 1. Site Reliability Engineering
 
@@ -10,13 +26,13 @@ Traditional SRE saying
 
 ## 3. DevOps
 
-## 4. Monitoring & Observability
+## 4. Monitoring and Observability
 
 - [My Awesome Observability Repo ;-)](https://github.com/adriannovegil/awesome-observability)
 
 ## 5. Alerting
 
-## 6. Incident Response & Post-Mortem
+## 6. Incident Response and Post-Mortem
 
 ## 7. On-Call
 
