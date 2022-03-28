@@ -84,6 +84,7 @@ The definition of running well will therefore be a derivative of the business mo
 - [SLO Computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here's an attempt to make it easy.
 - [SLO Tracker](https://github.com/roshan8/slo-tracker) - A simple but effective way to track SLO's and Error budgets. SLO-tracker can be integrated with few alerting tools via webhook integration to receive SLO voilating incidents.
 - [SLO exporter](https://github.com/seznam/slo-exporter) - Computes standardized Service Level Indicator (SLI) and Service Level Objectives (SLO) metrics based on events coming from various data sources.
+- [Pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone.
 
 ## 12. Books
 
