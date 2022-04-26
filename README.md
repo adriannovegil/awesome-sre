@@ -66,7 +66,6 @@ The definition of running well will therefore be a derivative of the business mo
 - [Geneos](https://www.itrsgroup.com/products/geneos) - Real-time monitoring for all your environments in one platform.
 - [FireHydrant](https://www.firehydrant.com) - Gives teams the tools to maintain service catalogs, respond to incidents, communicate through status pages, and learn with retrospectives.
 - [Rootly](https://www.rootly.io) - The fastest way to declare an incident.
-- [AlertAgility](http://www.alertagility.com/)
 
 ## 7. On-Call
 
@@ -101,7 +100,6 @@ The definition of running well will therefore be a derivative of the business mo
 - https://github.com/awesome-sre/awesome-sre
 - https://github.com/jdrowne/awesome-sre-books
 - https://github.com/hekonsek/awesome-sre
-- https://github.com/squadcastHQ/awesome-sre-tools
 - https://github.com/mterwill/awesome-sre
 - https://github.com/operate-first/SRE
 - https://github.com/SquadcastHub/awesome-sre-tools
