@@ -127,6 +127,7 @@ The definition of running well will therefore be a derivative of the business mo
 - [Kubernetes Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) - Automatically adjusts the amount of CPU and memory requested by pods.
 - [Kubernetes Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) - Automatically scales the number of pods in a deployment based on observed metrics.
 - [KEDA](https://keda.sh/) - Kubernetes Event-driven Autoscaling component that provides fine-grained autoscaling for any container workload.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## 11. Runbooks and Playbooks
 
