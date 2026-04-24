@@ -64,6 +64,7 @@ The definition of running well will therefore be a derivative of the business mo
 - [OpenTelemetry](https://opentelemetry.io/) - Collection of APIs, SDKs, and tools for instrumenting, generating, collecting, and exporting telemetry data.
 - [Datadog](https://www.datadoghq.com/) - Unified monitoring and security platform for metrics, traces, and logs.
 - [Nagios](https://www.nagios.com/) - Comprehensive IT infrastructure monitoring software application.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), and AI-guided cluster operations for hybrid edge and cloud environments. CNCF Sandbox project (Apache 2.0).
 
 ## 5. Alerting
 
