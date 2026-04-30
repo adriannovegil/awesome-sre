@@ -64,6 +64,8 @@ The definition of running well will therefore be a derivative of the business mo
 - [OpenTelemetry](https://opentelemetry.io/) - Collection of APIs, SDKs, and tools for instrumenting, generating, collecting, and exporting telemetry data.
 - [Datadog](https://www.datadoghq.com/) - Unified monitoring and security platform for metrics, traces, and logs.
 - [Nagios](https://www.nagios.com/) - Comprehensive IT infrastructure monitoring software application.
+- [Middleware](https://middleware.io/) - Middleware is a full-stack observability platform that detects issues from various sources and resolves them using AI.
+
 
 ## 5. Alerting
 
