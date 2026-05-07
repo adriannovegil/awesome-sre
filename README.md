@@ -59,20 +59,11 @@ The definition of running well will therefore be a derivative of the business mo
 
 <!--lint ignore double-link-->
 - [My Awesome Observability Repo ;-)](https://github.com/adriannovegil/awesome-observability)
-- [Prometheus](https://prometheus.io/) - Open source monitoring system and time series database, the de facto standard for cloud-native monitoring.
-- [Grafana](https://grafana.com/oss/grafana/) - Open source analytics and interactive visualization web application for dashboarding.
-- [OpenTelemetry](https://opentelemetry.io/) - Collection of APIs, SDKs, and tools for instrumenting, generating, collecting, and exporting telemetry data.
-- [Datadog](https://www.datadoghq.com/) - Unified monitoring and security platform for metrics, traces, and logs.
-- [Nagios](https://www.nagios.com/) - Comprehensive IT infrastructure monitoring software application.
 
 ## 5. Alerting
 
 <!--lint ignore double-link-->
 - [My Awesome Observability Repo ;-)](https://github.com/adriannovegil/awesome-observability)
-- [Prometheus Alertmanager](https://github.com/prometheus/alertmanager) - Handles alerts sent by Prometheus server, deduplicating, grouping, and routing them to the correct receiver.
-- [Grafana OnCall](https://grafana.com/oss/oncall/) - Open source incident response and on-call management tool that integrates with Grafana.
-- [Sloth](https://github.com/slok/sloth) - Easy and simple Prometheus SLO (service level objectives) generator for alerts.
-- [Moira](https://github.com/moira-alert) - Real-time alerting system, backed by Graphite, designed to be independent of any monitoring solution.
 
 ## 6. Incident Response and Post-Mortem
 
@@ -138,12 +129,8 @@ The definition of running well will therefore be a derivative of the business mo
 
 ## 12. Performance
 
-- [Brendan Gregg's Systems Performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html) - Comprehensive resource on systems performance analysis and tuning.
-- [USE Method](https://www.brendangregg.com/usemethod.html) - Utilization, Saturation, and Errors methodology for analyzing the performance of any system.
-- [K6](https://k6.io/) - Developer-centric, open-source load testing tool built for making performance testing a productive experience.
-- [Locust](https://github.com/locustio/locust) - Easy-to-use, scriptable and scalable performance testing tool written in Python.
-- [Gatling](https://gatling.io/) - Load testing tool designed for continuous testing integrated with your development pipeline.
-- [Flame Graphs](https://www.brendangregg.com/flamegraphs.html) - Visualization of profiled software, allowing the most frequent code-paths to be identified quickly.
+<!--lint ignore double-link-->
+- [My Awesome Profiling Repo ;-)](https://github.com/adriannovegil/awesome-profiling)
 
 ## 13. SLOs and SLIs Tools
 
