@@ -134,6 +134,7 @@ The definition of running well will therefore be a derivative of the business mo
 
 ## 13. SLOs and SLIs Tools
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local.
 - [SLO Generator](https://github.com/google/slo-generator) - Tool by Google to compute and export Service Level Objectives, Error Budgets and Burn Rates using YAML configurations.
 - [SLO Computer](https://github.com/last9/slo-computer) - Simplifies computing SLOs, error windows and alerts.
 - [SLO Tracker](https://github.com/roshan8/slo-tracker) - A simple but effective way to track SLOs and Error budgets with webhook integration for alerting tools.
