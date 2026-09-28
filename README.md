@@ -32,16 +32,27 @@ The definition of running well will therefore be a derivative of the business mo
 
 ## 1. Site Reliability Engineering
 
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [What is Site Reliability Engineering?](https://landing.google.com/sre/) - Google's foundational page on SRE.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [SRE Book - Google](https://sre.google/sre-book/table-of-contents/) - Free online version of the original Google SRE book.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [School of SRE - LinkedIn](https://github.com/linkedin/school-of-sre) - Comprehensive curriculum for onboarding new SREs, covering Linux, networking, databases, and more.
+<!--lint ignore double-link-->
 - [How They SRE](https://github.com/upgundecha/howtheysre) - Curated collection of publicly available resources on how technology and tech-savvy organizations practice Site Reliability Engineering.
+<!--lint ignore double-link-->
 - [SRE Interview Prep Guide](https://github.com/mxssl/sre-interview-prep-guide) - Comprehensive checklist of topics and resources to prepare for SRE interviews.
+<!--lint ignore double-link-->
 - [Awesome SRE Cheatsheets](https://github.com/michael-kehoe/awesome-sre-cheatsheets) - Collection of cheatsheets for various SRE tools and practices.
 
 ## 2. SRE Culture
 
 - [SRE vs DevOps: What's the Difference?](https://cloud.google.com/blog/products/devops-sre/sre-vs-devops-competing-standards-or-close-friends) - Google Cloud blog post explaining the relationship between SRE and DevOps.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Building Reliable Systems with SRE - Google](https://sre.google/resources/) - Collection of talks, articles, and case studies about SRE culture and practices.
 - [Blameless Post-Mortems](https://sre.google/sre-book/postmortem-culture/) - Chapter from the Google SRE book on creating a blameless post-mortem culture.
 - [Love DevOps? Wait until you meet SRE](https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre) - Atlassian's take on the relationship between SRE and DevOps culture.
@@ -58,10 +69,14 @@ The definition of running well will therefore be a derivative of the business mo
 ## 4. Monitoring and Observability
 
 <!--lint ignore double-link-->
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [My Awesome Observability Repo ;-)](https://github.com/adriannovegil/awesome-observability)
 
 ## 5. Alerting
 
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 <!--lint ignore double-link-->
 - [My Awesome Observability Repo ;-)](https://github.com/adriannovegil/awesome-observability)
 
@@ -86,7 +101,6 @@ The definition of running well will therefore be a derivative of the business mo
 - [Bigpanda](https://www.bigpanda.io/) - AIOps event correlation and automation platform.
 <!--lint ignore double-link-->
 - [OpenDuty](https://github.com/ustream/openduty) - __(Deprecated)__ Open source incident escalation tool similar to PagerDuty, no longer maintained.
-- [ngDesk](https://www.ngdesk.com/) - All-in-one application that includes support, sales, asset management, marketing and pager.
 - [Geneos](https://www.itrsgroup.com/products/geneos) - Real-time monitoring for all your environments in one platform.
 - [FireHydrant](https://www.firehydrant.com) - Tools for service catalogs, incident response, status pages, and retrospectives.
 - [Rootly](https://www.rootly.io) - Incident management platform with automated workflows and Slack integration.
@@ -105,11 +119,12 @@ The definition of running well will therefore be a derivative of the business mo
 ## 9. Automation and Toil Reduction
 
 - [Eliminating Toil - Google SRE Book](https://sre.google/sre-book/eliminating-toil/) - Chapter on identifying and reducing toil in SRE practice.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Rundeck](https://www.rundeck.com/) - Open source runbook automation for incident management, business continuity, and self-service operations.
 - [Ansible](https://www.ansible.com/) - Simple, agentless IT automation platform for configuration management, application deployment, and orchestration.
 - [Terraform](https://www.terraform.io/) - Infrastructure as Code tool for building, changing, and versioning infrastructure safely and efficiently.
 - [Pulumi](https://www.pulumi.com/) - Infrastructure as Code using familiar programming languages like Python, Go, JavaScript, TypeScript, and C#.
-- [Shoreline](https://shoreline.io/) - Incident automation platform that enables on-call engineers to debug and repair production issues with real-time automation.
 - [StackStorm](https://stackstorm.com/) - Open source event-driven platform for runbook automation, ChatOps, and auto-remediation.
 - [KnoxOps](https://knoxops.app) - Production-safe AI agent for SRE operations with human review gating and built-in knowledge graph.
 
@@ -123,6 +138,8 @@ The definition of running well will therefore be a derivative of the business mo
 
 ## 11. Runbooks and Playbooks
 
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Rundeck](https://www.rundeck.com/) - Open source runbook automation for incident management and self-service operations.
 - [Google SRE Workbook - Practical Alerting](https://sre.google/workbook/alerting-on-slos/) - Guidelines for writing actionable alerts with associated runbooks.
 - [PagerDuty Incident Response Docs](https://response.pagerduty.com/) - Open source documentation covering PagerDuty's incident response process and runbook best practices.
@@ -147,6 +164,8 @@ The definition of running well will therefore be a derivative of the business mo
 
 ## 14. Books
 
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) - The original Google SRE book, free to read online.
 - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/) - Practical companion to the SRE book with actionable examples.
 - [Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/) - Combines security and reliability practices for designing systems.
@@ -159,37 +178,54 @@ The definition of running well will therefore be a derivative of the business mo
 
 <!--lint ignore double-link-->
 - [Observability Sandbox](https://github.com/adriannovegil/observability-sandbox) - Get up and running with Prometheus, Thanos, Grafana, and more using Docker and Docker Compose.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [School of SRE](https://github.com/linkedin/school-of-sre) - LinkedIn's comprehensive self-study curriculum covering fundamentals to advanced SRE topics.
+<!--lint ignore double-link-->
 - [SRE University](https://github.com/andrealmar/sre-university) - Curated list of courses and resources for learning SRE.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Google SRE Resources](https://sre.google/resources/) - Official Google resources including talks, blog posts, and case studies.
+<!--lint ignore double-link-->
 - [Operate First](https://github.com/operate-first/SRE) - Community-driven SRE practices for open source cloud operations.
 
 ## 16. Community and Forums
 
 - [SREcon](https://www.usenix.org/srecon) - USENIX conference dedicated to Site Reliability Engineering.
 - [CNCF TAG Observability](https://github.com/cncf/tag-observability) - CNCF Technical Advisory Group for observability topics.
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Google SRE Resources](https://sre.google/resources/) - Official talks, blog posts, and educational content from Google SRE teams.
 - [SRE Weekly](https://sreweekly.com/) - Weekly newsletter curating the best SRE news and articles.
+<!--lint ignore double-link-->
 - [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 
 ## 17. References
 
+<!--lint ignore double-link-->
 - https://github.com/dastergon/awesome-sre
+<!--lint ignore double-link-->
 - https://github.com/michael-kehoe/awesome-sre-cheatsheets
+<!--lint ignore double-link-->
 - https://github.com/andrealmar/sre-university
 - https://github.com/awesome-sre/awesome-sre
 - https://github.com/jdrowne/awesome-sre-books
-- https://github.com/hekonsek/awesome-sre
 - https://github.com/mterwill/awesome-sre
+<!--lint ignore double-link-->
 - https://github.com/operate-first/SRE
 - https://github.com/SquadcastHub/awesome-sre-tools
+<!--lint ignore double-link-->
 - https://github.com/mxssl/sre-interview-prep-guide
 - https://github.com/rishiloyola/SRE-Interviews
 - https://github.com/unixorn/sysadmin-reading-list
+<!--lint ignore double-link-->
 - https://github.com/linkedin/school-of-sre
+<!--lint ignore double-link-->
 - https://github.com/upgundecha/howtheysre
 - [Site Reliability Engineering - Rodolpho Eckhardt](https://www.youtube.com/watch?v=XI2zUFIsMwg)
 - [Site Reliability Engineering at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE)
+<!--lint ignore double-link-->
+<!--lint ignore double-link-->
 - [Site Reliability Engineering](https://landing.google.com/sre/)
 
 ## 18. License
