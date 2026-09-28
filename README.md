@@ -111,6 +111,7 @@ The definition of running well will therefore be a derivative of the business mo
 - [Pulumi](https://www.pulumi.com/) - Infrastructure as Code using familiar programming languages like Python, Go, JavaScript, TypeScript, and C#.
 - [Shoreline](https://shoreline.io/) - Incident automation platform that enables on-call engineers to debug and repair production issues with real-time automation.
 - [StackStorm](https://stackstorm.com/) - Open source event-driven platform for runbook automation, ChatOps, and auto-remediation.
+- [KnoxOps](https://knoxops.app) - Production-safe AI agent for SRE operations with human review gating and built-in knowledge graph.
 
 ## 10. Capacity Planning
 
