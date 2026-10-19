@@ -135,6 +135,7 @@ The definition of running well will therefore be a derivative of the business mo
 - [Kubernetes Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) - Automatically scales the number of pods in a deployment based on observed metrics.
 - [KEDA](https://keda.sh/) - Kubernetes Event-driven Autoscaling component that provides fine-grained autoscaling for any container workload.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server's CPU, memory and 4k random disk IOPS in about a minute, for sizing and comparing servers.
 
 ## 11. Runbooks and Playbooks
 
