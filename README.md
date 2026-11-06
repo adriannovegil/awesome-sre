@@ -144,6 +144,7 @@ The definition of running well will therefore be a derivative of the business mo
 - [Google SRE Workbook - Practical Alerting](https://sre.google/workbook/alerting-on-slos/) - Guidelines for writing actionable alerts with associated runbooks.
 - [PagerDuty Incident Response Docs](https://response.pagerduty.com/) - Open source documentation covering PagerDuty's incident response process and runbook best practices.
 - [Elastic Runbook Automation](https://www.elastic.co/guide/en/observability/current/create-alerts.html) - Guidelines for creating alerting rules with automated response actions.
+- [RMM Incident Response Runbook Template](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-incident-response-runbook-template.html) - Source-dated, 30-control checklist for readiness, detection, containment, investigation, recovery, communications, and post-incident improvement.
 
 ## 12. Performance
 
