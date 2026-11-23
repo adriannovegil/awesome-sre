@@ -199,6 +199,7 @@ The definition of running well will therefore be a derivative of the business mo
 <!--lint ignore double-link-->
 - [Google SRE Resources](https://sre.google/resources/) - Official talks, blog posts, and educational content from Google SRE teams.
 - [SRE Weekly](https://sreweekly.com/) - Weekly newsletter curating the best SRE news and articles.
+- [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/) - Weekly newsletter tracking the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams.
 <!--lint ignore double-link-->
 - [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 
