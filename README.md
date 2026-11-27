@@ -109,6 +109,7 @@ The definition of running well will therefore be a derivative of the business mo
 
 - [Grafana OnCall](https://grafana.com/oss/oncall/) - Open source on-call management tool with calendar integration, escalation chains, and ChatOps.
 - [PagerDuty On-Call](https://www.pagerduty.com/platform/on-call-management/) - Automated scheduling, escalation policies, and on-call reporting.
+- [TeamPager](https://www.teampager.io/) - Hosted on-call schedules, escalation and paging with a flat price per organization; accepts the Opsgenie Alert API format.
 - [Being On-Call - Google SRE Book](https://sre.google/sre-book/being-on-call/) - Google's guide on on-call best practices and sustainable workloads.
 - [Awesome On-Call](https://github.com/upgundecha/howtheysre#on-call) - Collection of articles on how companies handle on-call.
 
